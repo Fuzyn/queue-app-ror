@@ -1,0 +1,2 @@
+class PlanetDefence < ApplicationRecord
+end

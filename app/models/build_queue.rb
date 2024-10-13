@@ -1,0 +1,2 @@
+class BuildQueue < ApplicationRecord
+end

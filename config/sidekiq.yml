@@ -1,0 +1,5 @@
+:scheduler:
+  :schedule:
+    resource_updater:
+      cron: "*/1 * * * * *"
+      class: "IncrementElement"

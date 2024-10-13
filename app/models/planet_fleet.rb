@@ -1,0 +1,2 @@
+class PlanetFleet < ApplicationRecord
+end
